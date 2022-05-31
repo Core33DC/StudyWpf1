@@ -23,6 +23,27 @@ namespace WpfBikeShop
         public MainWindow()
         {
             InitializeComponent();
+
+            InitClass();
+        }
+
+        private void InitClass()
+        {
+            Human driver = new Human
+            {
+                FirstName = "Nick",
+                HasDrivingLicense = true
+        };
+
+            Car car = new Car();
+            //car.Speed = 100;
+            car.Color = Colors.Orange;
+            car.Driver = driver;
+        }
+
+        private void MainFrame_Navigated(object sender, NavigationEventArgs e)
+        {
+
         }
     }
 }
