@@ -25,7 +25,7 @@ namespace WpfBikeShop
             InitializeComponent();
 
             Car c = new Car {
-                //Speed = 100,
+                Speed = 100,
                 Color = Colors.Crimson,
                 Driver = new Human
                 { FirstName = "Nick",
@@ -43,7 +43,7 @@ namespace WpfBikeShop
             for (int i = 0; i < 10; i++)
             {
                 carlist.Add(new Car { 
-                    //Speed = i * 10,
+                    Speed = i * 10,
                     Color = Colors.Aquamarine
                 });
             }

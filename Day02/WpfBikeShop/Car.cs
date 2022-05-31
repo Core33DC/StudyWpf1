@@ -4,7 +4,8 @@ namespace WpfBikeShop
 {
     public class Car : Notifier
     {
-        private double speed {
+        private double speed; 
+        public double Speed {
             get { return speed; }
             set
             {

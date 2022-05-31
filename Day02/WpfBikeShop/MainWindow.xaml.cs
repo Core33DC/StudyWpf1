@@ -36,7 +36,7 @@ namespace WpfBikeShop
         };
 
             Car car = new Car();
-            //car.Speed = 100;
+            car.Speed = 100;
             car.Color = Colors.Orange;
             car.Driver = driver;
         }
