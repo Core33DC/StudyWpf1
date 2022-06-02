@@ -39,7 +39,7 @@ namespace WpfBikeShop
             //    new Uri("/Bindings.xaml", UriKind.RelativeOrAbsolute)
             //    );
             NavigationService.Navigate(
-                new Uri("/Layouts.xaml", UriKind.RelativeOrAbsolute)
+                new Uri("/TemplatePage.xaml", UriKind.RelativeOrAbsolute)
                 );
         }
 
