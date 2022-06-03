@@ -18,5 +18,5 @@
 
 <br/>
 
- ![YoutubePlay]()
+ ![YoutubePlay](https://github.com/Core33DC/StudyWpf1/blob/main/capture/trailer.png?raw=true)
  검색영화 예고편보기 실행화면
