@@ -18,3 +18,7 @@ Wpf Study
 - 디자인
 - 리소스
 - 네이버 영화 앱 만들기([클릭](https://github.com/Core33DC/StudyWpf1/tree/main/portfolio))
+
+## Day 4일차
+- 네이버 영화 앱 마무리
+- 네이버 뉴스검색 앱
