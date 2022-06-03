@@ -17,4 +17,4 @@ Wpf Study
 ## Day 3일차
 - 디자인
 - 리소스
-- 네이버 영화 앱 만들기
+- 네이버 영화 앱 만들기([클릭](https://github.com/Core33DC/StudyWpf1/tree/main/portfolio))
