@@ -8,8 +8,7 @@
     xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"
     xmlns:local="clr-namespace:WpfNaverMovieFinder"
     mc:Ignorable="d"
-    Title="TrailerWindow" Height="350" Width="800"
-    ResizeMode="NoResize" Loaded="MetroWindow_Loaded"
+    Title="TrailerWindow" Height="350" Width="800" Loaded="MetroWindow_Loaded"
     Closing="MetroWindow_Closing">
     <Grid>
         <Grid.RowDefinitions>
