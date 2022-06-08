@@ -25,3 +25,7 @@ Wpf Study
 
 ## Day 5일차
 - MVVM 패턴 학습
+
+## Day 6일차
+- Caliburn.Micro MVVM 학습
+- SamrtHome 앱 
