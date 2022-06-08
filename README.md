@@ -28,4 +28,5 @@ Wpf Study
 
 ## Day 6일차
 - Caliburn.Micro MVVM 학습
+- Bogus(FakeData, DummyData) 패키지 학습
 - SamrtHome 앱 
