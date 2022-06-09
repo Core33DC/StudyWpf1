@@ -40,7 +40,7 @@
   - Newtonsoft.Json
   - SQLServer DB
 
-![SmartHomeMonitoring]()
+![SmartHomeMonitoring](https://github.com/Core33DC/StudyWpf1/blob/main/capture/SmartHomeMonitoring.png?raw=true)
 DB모니터링 화면
 
 <br/>
