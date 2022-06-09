@@ -32,7 +32,7 @@ Wpf Study
 - SmartHome 앱 시스템 만들기 
 
 ## Day 7
-- SmartHome 시스템 만들기
+- SmartHome 시스템 만들기 ([클릭](https://github.com/Core33DC/StudyWpf1/tree/main/portfolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1))
   - MQTT Publish 프로그램
   - MQTT Broker 프로그램
   - MQTT Monitering 프로그램
