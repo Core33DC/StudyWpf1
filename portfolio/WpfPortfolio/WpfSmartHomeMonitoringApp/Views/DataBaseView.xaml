@@ -40,10 +40,10 @@
             <iconPacks:PackIconJamIcons Kind="Database" VerticalAlignment="Center" Margin="5" RenderTransformOrigin="0.5,0.5" >
                 <iconPacks:PackIconJamIcons.RenderTransform>
                     <TransformGroup>
-                        <ScaleTransform/>
+                        <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
                         <SkewTransform/>
                         <RotateTransform/>
-                        <TranslateTransform X="2.0" Y="2.0"/>
+                        <TranslateTransform/>
                     </TransformGroup>
                 </iconPacks:PackIconJamIcons.RenderTransform>
             </iconPacks:PackIconJamIcons>
