@@ -32,15 +32,23 @@
 ![NaverNewsSearch](https://raw.githubusercontent.com/Core33DC/StudyWpf1/main/capture/naver_newssearch.png)
 
 ## SmartHome 모니터링앱
+[이전](https://github.com/Core33DC/StudyWpf1)
 - WPF (.NET Framwork 4.7.2 / C#)
   - MahApps.Metro UI/Modern UI
   - Caliburn.Micro
   - LiveCharts
+  - OxyPlot.Wpf
   - M2Mqtt
   - Newtonsoft.Json
   - SQLServer DB
 
 ![SmartHomeMonitoring](https://github.com/Core33DC/StudyWpf1/blob/main/capture/SmartHomeMonitoring.png?raw=true)
 DB모니터링 화면
+
+![Realtimeview](https://raw.githubusercontent.com/Core33DC/StudyWpf1/main/capture/Capture2.png)
+실시간 센서 디스플레이
+
+![HistoryView](https://raw.githubusercontent.com/Core33DC/StudyWpf1/main/capture/Capture1.png)
+센서값 시각화 및 프로그램 정보창
 
 <br/>
